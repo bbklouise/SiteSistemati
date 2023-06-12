@@ -1,0 +1,126 @@
+div#topo{
+  background-image: center;
+  background: #ccc;
+  width:945px;
+  height:165px;
+  margin-top:0 auto;
+}
+
+div#logo{
+  background: #whitesmoke;
+  width:300;
+  height:200;
+  margin-top:50px;
+  float:left;
+}
+
+div#login p{
+  font-family:Verdana;
+  font-size:12px;
+}
+
+div#menu{
+  background:#373737;
+  width:945px;
+  height:65px;
+  margin:0 auto;
+}
+
+div#menu a{
+    color: #fff;
+    font-family:Verdana;
+    font-size:12px;
+    text-decoration: underline;
+    margin-top:20px;
+    margin-left:50px;
+    display: block;
+    float:left;
+}
+
+div#menu a:hover{
+  color:#00c6c6;
+}
+
+div#banner{
+  background:#ddd;
+  width:400px;
+  height:200px;
+  margin:0 auto;
+
+}
+div#container{
+  width:945px;
+  height:400px;
+  margin:0 auto;
+}
+
+div.chamada{
+  width:245px;
+  height:360px;
+  float:left;
+  margin-top:20px;
+  margin-left:20px;
+  text-align:center;
+  font-family:Verdana;
+}
+
+div.chamada h1{
+  font-family:Arial;
+}
+
+div.chamada p{
+  font-family:Arial;
+  font-size: 11px;
+}
+
+*{
+  font-family: "Ramyoon"
+}
+
+h4{
+  text-align: right;
+  font-size:50px;
+}
+
+h5{
+  text-align: right;
+  font-size:20px;
+}
+
+p{
+  text-align: right;
+  font-size:10px;
+}
+
+div {
+  text-align: right;
+  margin:20pxleft;right;
+}
+
+button {
+  font-size:20px;
+  background-color: purple;
+  color: white;
+  height:50px;
+  width:250px;
+  font-weight: bold;
+}
+input {
+  height:40px;
+  width:600px;
+}
+
+select {
+  height:40px;
+  width:600px;
+}
+
+textarea{
+  height:40px;
+  width:600px;
+}
+
+hr {
+  width:150px;
+  color: purple;
+}
